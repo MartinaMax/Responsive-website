@@ -92,8 +92,7 @@ h3 {
 }
 
 .spacing {
-    background-color: var(--lightgrey);
-    padding: 1rem;
+    padding: .5rem;
 }
 
 
